@@ -1,8 +1,17 @@
 # Exploratory-Data-Analysis-Netflix
-About NETFLIX
+This Exploratory Data Analysis (EDA) project focuses on uncovering actionable insights from a comprehensive dataset of Netflix's global content library. By examining variables such as genre, release trends, ratings, and geographical distribution, the analysis aims to guide content production strategies and international market expansion.
 
-Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+---
 
-Business Problem
+### Project Overview
 
-Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
+* **Objective:** To identify high-performing content types and untapped market opportunities.
+* **Data Scope:** Over 10,000 listings (Movies and TV Shows) featuring metadata on cast, directors, country of origin, and duration.
+* **Key Focus Areas:**
+    * **Content Strategy:** Determining the optimal balance between Movies and TV Shows based on historical growth.
+    * **Geographic Insights:** Analyzing which genres resonate most in specific countries to tailor localized production.
+    * **Trend Analysis:** Identifying shifts in viewer preferences and release cycles over the last decade.
+    * **Audience Targeting:** Evaluating rating distributions to understand the primary demographic (e.g., Adult, Teen, or Family content).
+
+> **Goal:** To transform raw data into a roadmap for global growth and localized content dominance.
+
